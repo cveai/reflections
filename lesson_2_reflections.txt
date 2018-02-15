@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    .git 히든 디렉토리가 생김. Commit 할 수 있게 되고 따라서 파일 히스토리 트랙 가능.
+
