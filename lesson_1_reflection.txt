@@ -1,0 +1,66 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped a lot.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It seems to allow more leeway to make changes freely.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual control gets you more conscious while working. But it can happen that
+    you forget to save files to lose all your work accidentally. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Having all files gives you more control of the project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    I forgot.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Feel good.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Continue Haskell learning.
+
+How could having easy access to the entire history of a file make you a more 
+efficient programmer in the long term?
+
+    Greatly.
+
+What do you think are the pros and cons of manually choosing when to create 
+a commit, like you do in Git, vs having versions automatically saved, 
+like Google Docs does?
+
+    Pros: Easy to see though the file history.
+    Cons: May forget to commit too long.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    여러 파일들의 변경 사항이 서로 영향을 미치는지의 여부와 관계있음.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log : commoit history 보기
+    git diff id_1 id_2 : 차이 보기
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+    Would make me pretty confident.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Pythod DP로 knapsack 문제 푸는 알고리즘 구현.
+
