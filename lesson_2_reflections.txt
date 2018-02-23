@@ -2,3 +2,29 @@ What happens when you initialize a repository? Why do you need to do it?
 
     .git 히든 디렉토리가 생김. Commit 할 수 있게 되고 따라서 파일 히스토리 트랙 가능.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    Staging area에 포함된 파일들만 commit 됨. 버퍼 역할.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    지금 git commit 하면 뭐가 commit 되는지 확인해볼 수 있다: git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    블로그 새 포스트 쓰면서 옛 포스트 수정.
+
+How do the diagrams help you visualize the branch structure?
+
+    A lot.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+    Master branch at the tip of the repository.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+    자동으로 해주면 좋지만 복잡한 경우 그냥 자동으로 하면 문제가 생길지도.
+
+
+
